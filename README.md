@@ -1,7 +1,7 @@
 <!-- Banner Start -->
 ![Banner](banner.png)
 <!-- Banner End -->
-<h1 align="center">DevSecMLOps</h1>
+<h1 align="center">TriceratOps</h1>
 <h3 align="center">Always learning, always sharing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwan923&label=Profile%20views&color=0e75b6&style=flat" alt="erwan923" /> </p>
