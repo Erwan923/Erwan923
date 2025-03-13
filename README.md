@@ -1,7 +1,7 @@
 <!-- Banner Start -->
 ![Banner](banner.png)
 <!-- Banner End -->
-[[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello Wolrd)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello-Wolrd)](https://git.io/typing-svg)
 <h1 align="center">TriceratOps</h1>
 <h3 align="center">Always learning, always sharing.</h3>
 
