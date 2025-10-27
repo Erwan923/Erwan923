@@ -1,87 +1,73 @@
 <div align="center">
-  <img src="banner.png" width="800" />
+  <img src="https://github.com/erwan923/erwan923/blob/main/images/banner.png" width="700" />
 </div>
 
-<h1 align="center">DevSecOps Engineer</h1>
-<p align="center">
-  Cloud infrastructure & CI/CD automation<br/>
-  <strong>Passionate about Robotics & AI Infrastructure</strong>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ton-email"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/erwan923"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
-</p>
+[![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00D9FF&pause=500&center=true&random=false&width=1200&lines=$+DevSecOps+Engineer+%7C+Cloud+Architecture;$+Exploring+Robotics+%26+AI+Infrastructure;$+Kubernetes+%7C+Azure+%7C+AWS)](https://git.io/typing-svg)
 
 ---
 
-### 🤖 Areas of Interest
+## 0x00 <span style="color: #00D9FF !important;">&gt;</span> Core Stack
 
-**Robotics Infrastructure**  
-Kubernetes orchestration for autonomous systems • ROS deployment pipelines • Edge computing for robotics workloads
-
-**AI/ML Infrastructure**  
-MLOps automation • GPU cluster management • Model deployment at scale • Training pipeline optimization
-
-**Cloud & DevSecOps**  
-Multi-cloud architecture (Azure, AWS, GCP) • Infrastructure as Code • Security-first CI/CD
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,ansible,python,bash,jenkins,git,linux,nginx,redis,postgres,prometheus,grafana&perline=12)](https://skillicons.dev)
 
 ---
 
-### 🛠️ Tech Stack
+## 0x01 <span style="color: #00D9FF !important;">&gt;</span> Robotics & AI Focus
 
-**Robotics & AI**  
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+[![Robotics Stack](https://skillicons.dev/icons?i=ros,pytorch,tensorflow,cpp,go&perline=8)](https://skillicons.dev)
 
-**Cloud & Infrastructure**  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-**DevOps & Automation**  
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Areas of Interest:**
+- 🤖 Kubernetes orchestration for autonomous robotics systems
+- 🧠 MLOps & AI infrastructure automation  
+- 🚀 Edge computing for robotics workloads
+- 🔧 CI/CD pipelines for ML model deployment
 
 ---
 
-### 💼 What I Do
+## 0x02 <span style="color: #00D9FF !important;">&gt;</span> What I Build
 
-**Professional Focus**  
-Building enterprise-grade CI/CD pipelines and cloud infrastructure with a focus on automation, security, and scalability.
+**Professional Work:**
+- ☁️ Enterprise CI/CD pipelines (Azure DevOps, Jenkins)
+- 🏗️ Multi-cloud infrastructure automation (Bicep, Terraform, YAML)
+- 🔒 Custom build agents with security-first approach
+- 📦 Service validation frameworks (.NET, Python, Maven, Node.js)
 
-**Current Exploration**  
-- 🤖 Designing Kubernetes deployments for autonomous robotics systems
-- 🧠 Studying MLOps practices for AI model lifecycle management
-- 🚀 Experimenting with infrastructure automation for ML training workloads
-- 🔧 Contributing to robotics and AI infrastructure projects
-
----
-
-### 📜 Certifications
-
-- AWS Solutions Architect Associate
-- Certified Kubernetes Administrator (CKA)
-- Red Team Operations (CRTO)
+**Current Exploration:**
+- 🤖 Kubernetes deployment strategies for autonomous systems
+- 🧠 Infrastructure patterns for AI/ML training workloads
+- 🔧 Contributing to robotics & AI infrastructure projects
 
 ---
 
-### 📊 GitHub Activity
+## 0x03 <span style="color: #00D9FF !important;">&gt;</span> Certifications
+```yaml
+credentials:
+  - AWS Solutions Architect Associate
+  - Certified Kubernetes Administrator (CKA)
+  - Red Team Operations (CRTO)
+
+background:
+  - DevSecOps Engineer (Luxembourg)
+  - Former Airbus Defence & Space
+  - Cross-border professional (FR/LU)
+```
+
+---
+
+## 0x04 <span style="color: #00D9FF !important;">&gt;</span> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erwan923&show_icons=true&theme=nord&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erwan923&theme=nord&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erwan923&show_icons=true&theme=gotham&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erwan923&theme=gotham&border=00D9FF&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
+
+---
+
+## 0x05 <span style="color: #00D9FF !important;">&gt;</span> Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erwan923)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email)
 
 ---
 
